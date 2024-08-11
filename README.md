@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Nikhil-652004)
 <h1 align="center">Hi 👋, I'm Nikhil Gokarakonda</h1>
 <h3 align="center">Web-FrontEnd Developer and AI/ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
