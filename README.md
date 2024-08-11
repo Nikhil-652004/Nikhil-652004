@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-sri-sai-teja-gokarakonda-0bb614250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-sri-sai-teja-gokarakonda-0bb614250/" height="30" width="40" /></a>
 <a href="https://kaggle.com/nikhilgokarakonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikhilgokarakonda" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhil_6.5.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_6.5.24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhil_652004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil_652004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Nikhil_652004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nikhil_652004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nikhil652004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhil652004" height="30" width="40" /></a>
 </p>
 
