@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **nikhil652004@gmail.com**
+- 📫 Reach me in **[Linkedin](https://www.linkedin.com/in/nikhil-sri-sai-teja-gokarakonda-0bb614250/)**
 
 - 📄 Know about my experiences by resume [https://drive.google.com/file/d/1gVSRzOwsWx7oEx2_mvArEKxs8uXfqUVu/view?usp=drive_link](https://drive.google.com/file/d/1gVSRzOwsWx7oEx2_mvArEKxs8uXfqUVu/view?usp=drive_link)
 
