@@ -3,9 +3,9 @@
 <h3 align="center">Web-FrontEnd Developer and AI/ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **a Research paper based on nature inspired EA's**
+- 🔭 I’m currently working as **Software Development Engineer Intern at Lucidity**
 
-- 🌱 I’m currently learning **ReactJS and MongoDB**
+- 🌱 I contributed for a research paper on  **Disaster Management in Efficient User-Allocation in Edge Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhil-652004](https://github.com/Nikhil-652004)
 
